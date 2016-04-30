@@ -1,0 +1,8 @@
+LoginPageTitle=login
+LoginPage.loginInput=css=input[type="email"]
+LoginPage.passwordInput=css=input[type="password"]
+LoginPage.loginButton=css=input.btn
+
+AccountPage.name=xpath=.//div[text()='Vitaly Zinevich']
+
+Navigation.yourinfo=css=ul.c-menu-container a[data-bi-name="sharedshell-yourinfo"]
